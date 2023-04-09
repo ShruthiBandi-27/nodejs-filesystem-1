@@ -1,0 +1,5 @@
+GITHUB URL - https://github.com/ShruthiBandi-27/nodejs-filesystem.git
+PORT - 7000
+endpoints: 
+To retrieve files: http://localhost:7000/getFiles
+To create file: http://localhost:7000/createFile
